@@ -1,0 +1,7 @@
+{
+  "name": "tira-fotos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
